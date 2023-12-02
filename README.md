@@ -21,3 +21,4 @@ Connect to the server using a TCP client.
 Configuration
 Port: The server listens on port 9000 by default. You can change this in the server.listen() method in server.js.
 File Handling: Modify the logic in if (fs.existsSync(.${request.path})) to handle requested file responses.
+![Www Concept Illustration _ Vecteur Gratuite](https://github.com/Mmesomadavid/Web-Server/assets/108488301/70a67a6b-2501-4d08-9fe8-e8bf73d5a358)
